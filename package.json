@@ -1,0 +1,19 @@
+{
+  "name": "acc-setup-manager",
+  "version": "1.0.0",
+  "description": "A small app for viewing and managing ACC setups",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reybalgs/acc-setup-manager.git"
+  },
+  "author": "Aldo Rey Balagulan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reybalgs/acc-setup-manager/issues"
+  },
+  "homepage": "https://github.com/reybalgs/acc-setup-manager#readme"
+}
